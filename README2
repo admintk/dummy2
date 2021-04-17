@@ -1,13 +1,10 @@
 New Readme File Added
 
-##To show difference of express commit
+##To show diffrence of express commit
 
 Learn git
 
 This is update "new" branch
-<<<<<<< HEAD
 This is after update from prob branch.
-=======
 
-This is update from "prob" branch 
->>>>>>> prob
+creating stash
